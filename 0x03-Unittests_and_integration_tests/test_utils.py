@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Test utils
+""" Test utils module
 """
 import unittest
 from unittest.mock import patch
